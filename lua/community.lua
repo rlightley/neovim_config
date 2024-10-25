@@ -9,5 +9,6 @@ return {
   { import = "astrocommunity.colorscheme.catppuccin" },
   { import = "astrocommunity.recipes.vscode-icons" },
   { import = "astrocommunity.completion.copilot-cmp" },
+  { import = "astrocommunity.recipes.heirline-mode-text-statusline" },
   -- import/override with your plugins folder
 }
